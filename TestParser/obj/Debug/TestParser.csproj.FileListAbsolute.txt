@@ -1,0 +1,16 @@
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\TestParser.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\TestParser.pdb
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\laba2.exe
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\laba2.pdb
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\laba2.exe.config
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Boss\source\repos\laba2\TestParser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Boss\source\repos\laba2\TestParser\obj\Debug\TestParser.csprojAssemblyReference.cache
+C:\Users\Boss\source\repos\laba2\TestParser\obj\Debug\TestParser.csproj.CopyComplete
+C:\Users\Boss\source\repos\laba2\TestParser\obj\Debug\TestParser.dll
+C:\Users\Boss\source\repos\laba2\TestParser\obj\Debug\TestParser.pdb

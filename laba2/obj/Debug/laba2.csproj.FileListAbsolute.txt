@@ -1,0 +1,9 @@
+C:\Users\Boss\source\repos\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\Boss\source\repos\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\Boss\source\repos\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.Form1.resources
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\Boss\source\repos\laba2\laba2\obj\Debug\laba2.pdb

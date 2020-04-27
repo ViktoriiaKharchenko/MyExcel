@@ -1,0 +1,13 @@
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\TestCellRef.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\TestCellRef.pdb
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Boss\source\repos\laba2\TestCellRef\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Boss\source\repos\laba2\TestCellRef\obj\Debug\TestCellRef.csprojAssemblyReference.cache
+C:\Users\Boss\source\repos\laba2\TestCellRef\obj\Debug\TestCellRef.csproj.CopyComplete
+C:\Users\Boss\source\repos\laba2\TestCellRef\obj\Debug\TestCellRef.dll
+C:\Users\Boss\source\repos\laba2\TestCellRef\obj\Debug\TestCellRef.pdb
